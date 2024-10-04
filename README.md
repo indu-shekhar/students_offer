@@ -96,7 +96,3 @@ By contributing, you're helping create a comprehensive and valuable resource hub
 
 ## 📄 License
 This project is licensed under the **Apache 2.0 License**.
-
----
-
-You can use this file to enhance your repository's contribution guidelines and make it more engaging.
