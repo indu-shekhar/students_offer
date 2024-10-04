@@ -1,4 +1,4 @@
-# RESOUCES FOR STUDENTS
+# RESOURCES FOR STUDENTS
 ---
 
 ### 🌟 DO Use, DO Contribute
