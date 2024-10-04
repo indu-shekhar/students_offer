@@ -1,4 +1,4 @@
-# students_offer
+# RESOUCES FOR STUDENTS
 ---
 
 ### 🌟 DO Use, DO Contribute
