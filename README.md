@@ -7,7 +7,8 @@
   
 - **DO Contribute**: Have a resource or offer that could benefit other students? Contribute it to this repository! Whether it's a new tool, offer, or learning material, your contribution can help other students access opportunities. 💡
 
-Consider giving ⭐ If it's been helpful.
+- Consider giving ⭐ If it's been helpful.
+
 ---
 
 # 🎓 Student Offers and Free Resources 🆓
