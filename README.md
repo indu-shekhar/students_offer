@@ -50,9 +50,8 @@ Do you have a useful resource that students can benefit from? You can easily add
 ### 2. **Clone Your Fork**
    - Open your terminal and run:
      ```bash
-     git clone https://github.com/your-username/students_offer.git
+     git clone https://github.com/indu-shekhar/students_offer.git
      ```
-   - Replace `your-username` with your GitHub username.
 
 ### 3. **Create a New Branch**
    - Navigate to the cloned directory:
