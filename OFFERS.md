@@ -11,6 +11,7 @@ These platforms provide tools for learning, productivity, and software developme
 | $${\color{green}MicrosoftOffice365}$$ | Free Office 365 for Education | https://www.microsoft.com/en-us/education/products/office |
 | Adobe Creative Cloud | 60% off on Adobe Creative Cloud | https://www.adobe.com/creativecloud/buy/students.html |
 | $${\color{red}GitHub**}$$ | GitHub Student Developer Pack | https://education.github.com/pack |
+| Kilobat Pro | One year free on two Macs for eligible students; renewable with school email | https://kilobat.app/students |
 | Autodesk | Free access to Autodesk software | https://www.autodesk.com/education/free-software/overview |
 | Tableau | Free Tableau Desktop and Tableau Prep | https://www.tableau.com/academic/students |
 | JetBrains | Free access to JetBrains tools through GitHub pack | https://www.jetbrains.com/student/ |
